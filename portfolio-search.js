@@ -8,7 +8,7 @@ jQuery(document).ready(function($) {
         }
 
         $.ajax({
-            url: portfolioAjax.ajaxurl1,
+            url: portfolioAjax.ajaxurl,
             type: 'post',
             data: {
                 action: 'portfolio_ajax_search',
