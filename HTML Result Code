@@ -1,0 +1,4 @@
+<div id="portfolio-search-container">
+    <input type="text" id="portfolio-search" placeholder="Search Portfolios">
+    <div id="portfolio-results"></div>
+</div>
