@@ -1,1 +1,1 @@
-Ajax Search portfolio plugin mayank1
+Ajax Search portfolio plugin 
